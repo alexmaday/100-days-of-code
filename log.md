@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: March 20, 2019
+### Day 1: March 20, 2019
 
 **Today's Progress**: Worked on CSS box-shadow generator. Adjusting CSS, hooking up events to range sliders and general cleaning/re-factoring of code.
 
@@ -8,22 +8,13 @@
 
 **Link to work:** [CSS box-shadow-toy repo](https://github.com/alexmaday/box-shadow-toy) and [codepen](https://codepen.io/alexmaday/pen/qvpgQz)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 2: March 21, 2019
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**:
+* [modify html label markup for styling](https://github.com/alexmaday/box-shadow-toy/commit/d688af3d65650f5bc74a3b0128e7e36967a8d5fd) - modified the labels to separate the attribute's description from its value using span tags.
+* [style label description and range value](https://github.com/alexmaday/box-shadow-toy/commit/d688af3d65650f5bc74a3b0128e7e36967a8d5fd) - used floats.
+* and [updated the range labels programatically](https://github.com/alexmaday/box-shadow-toy/commit/d9868463564c5c0a1fd5dc4362ddc7cced6fcf08)
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: I feel like I'm solving things, but not in the most elegant way. I know that there's smarter more clever ways to structure code, but I don't know how. But that's what practice is for.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link(s) to work**: [CSS box-shadow-toy repo](https://github.com/alexmaday/box-shadow-toy) and [codepen](https://codepen.io/alexmaday/pen/qvpgQz)
