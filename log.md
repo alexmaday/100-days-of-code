@@ -18,3 +18,14 @@
 **Thoughts**: I feel like I'm solving things, but not in the most elegant way. I know that there's smarter more clever ways to structure code, but I don't know how. But that's what practice is for.
 
 **Link(s) to work**: [CSS box-shadow-toy repo](https://github.com/alexmaday/box-shadow-toy) and [codepen](https://codepen.io/alexmaday/pen/qvpgQz)
+
+### Day 3: March 22, 2019
+
+**Today's Progress**:
+My box-shadow generator Works! Yay!
+
+I forgot to [add lengths to shadow's attributes](https://github.com/alexmaday/box-shadow-toy/commit/46edbc3f36c76e0081a0fbd11429dccbe609a128) - one of those careless moments.
+
+**Thoughts**: Still *know* I can do much better. My code is so-called correct, because it works, but it's not good. Tomorrow, I'd like to get back to some freeCodeCamping.
+
+**Link(s) to work**: [CSS box-shadow-toy repo](https://github.com/alexmaday/box-shadow-toy) and [codepen](https://codepen.io/alexmaday/pen/qvpgQz)
