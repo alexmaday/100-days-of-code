@@ -41,3 +41,20 @@ Also started a bit of work on a reset button. The button does what it means to, 
 
 **Link(s) to work**: 
 [use form container to capture events](https://github.com/alexmaday/box-shadow-toy/commit/f25ce7668438a5e260e492abb6ca47baee5e1245) and [codepen](https://codepen.io/alexmaday/pen/qvpgQz)
+
+### Day 5: March 25, 2019
+
+**Today's Progress**:
+Started re-reading You Don't Know JS: this & Object Prototypes. I never *really* had a handle on this, and I am coming back to JS after a long time, so maybe this time around, `this` will make more sense (as well as prototype? wtf).
+
+Resumed FCC, started on applied accessiblity covering:
+* `<label for='associated-form-control'>` attributes
+* `accesskey`
+* the importance of using tables for data, while using css to visually move the table off-screeen. It is still accessible
+* With respect to colorblindness: contrast is very important; the majority of color-blind people have problems with green.
+* Screenreaders make heavy use of HTML5's semantic tags, so-called landmarks, like `header, nav, main, article, and footer`.
+
+**Thoughts**: Sooo much to learn, all I can do is keep plugging away. Writing notes is key. Reading or doing tutorials without taking notes is like pissing in the wind and a waste of time. So important to take notes.
+
+**Link(s) to work**: 
+[freeCodeCamp](https://www.freecodecamp.org/alexmaday)
